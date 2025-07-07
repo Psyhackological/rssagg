@@ -1,6 +1,6 @@
 <h1 align="center">GoFeed2DB</h1>
 <p align="center">
-  <img width="20%" align="center" src="./media/rssagg_logo_plain.svg.svg" alt="RSSaggLogo">
+  <img width="20%" align="center" src="media/rssagg_logo_plain.svg" alt="RSSaggLogo">
 </p>
 
 > Go lang meets RSS feeds and keeps it into PotsgreSQL.
